@@ -1,0 +1,7 @@
+*- Raw String Literals::* 
+
+**path <- r"(C:\Users\Administrator\Downloads)"**
+
+- Use **r\"()\"** to write strings without escaping backslashes.
+
+- Ideal for Windows file paths.
