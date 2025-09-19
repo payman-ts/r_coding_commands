@@ -1,4 +1,4 @@
-*- Raw String Literals::* 
+*1- Raw String Literals::* 
 
 ```r 
 >path <- r"(C:\Users\Administrator\Downloads)"
@@ -9,7 +9,7 @@
   
 ---
   
-*- Grouped Data as List-Columns*
+*2- Grouped Data as List-Columns*
 - dplyr:: **group_nest()**
 - data.table:: dt[, **.(data = list(.SD))**, by = ...]
 ```r
